@@ -1,3 +1,3 @@
-def hello_world = "hello world"
+def Hello_world = "hello world"
 
-puts hello_world
+Hello_world
